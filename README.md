@@ -21,7 +21,7 @@
 	</a>
 	
 <br>
-<div style="display: flex; align-items: center;text-align:left; font-size: 17px; padding-top: 25px;">
+<div style="display: flex; align-items: left;text-align:left; font-size: 17px; padding-top: 25px;">
   <div style="padding-left: 34px;">
     <p>👨‍💻 Por afición</p>
     <p>🌱 Actualmente aprendiendo</p>
