@@ -17,8 +17,6 @@
 
 <h2 align=left> About Me</h2>
 
-<img width="240px" align="right" alt="Github" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRsYmYwOHYzbm1zdmY2OWlicm81c25jNGNienc5MnBpeWowMW1scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VvoYXi1SfFplFXfEEG/giphy.gif"  />
-
 - 🔭 Buscando oportunidades
   
 - 🌱 Aprendiendo cada día
