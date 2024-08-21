@@ -24,6 +24,7 @@
 - 👯 Abierto a colaborar en proyectos
   
 
+---
 
 <h2> Skills <br> <br><img src="https://skillicons.dev/icons?i=github,git,docker,vscode,flask" />
 <img src="https://skillicons.dev/icons?i=bash,python,javascript&theme=dark" />
