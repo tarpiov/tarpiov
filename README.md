@@ -27,7 +27,7 @@
     <p>🌱 Actualmente aprendiendo</p>
     <p>📫 Contacta conmigo tapionww@gmail.com</p>
   </div>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RmZ2JiaTI1bmR2cmJ5amc0dmh3MnR2ZmpkYWFmbXFsamNvYmhhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yo1jyCqyvqdyE0yEGL/giphy.gif" width="280" style="margin-left: auto;margin-bottom:20px;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRsYmYwOHYzbm1zdmY2OWlicm81c25jNGNienc5MnBpeWowMW1scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VvoYXi1SfFplFXfEEG/giphy.gif" width="280" style="margin-left: auto;margin-bottom:20px;">
 </div>
 
 ---
@@ -58,6 +58,10 @@
     <img src="https://skillicons.dev/icons?i=bash,python,javascript&theme=dark" />
   </a>
 </p>
+
+</div>
+
+
 
 </div>
 
