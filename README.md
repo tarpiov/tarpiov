@@ -25,7 +25,7 @@
   
 
 
-<h2 align=center> Skills <br> <br><img src="https://skillicons.dev/icons?i=github,git,docker,vscode,flask" />
+<h2> Skills <br> <br><img src="https://skillicons.dev/icons?i=github,git,docker,vscode,flask" />
 <img src="https://skillicons.dev/icons?i=bash,python,javascript&theme=dark" />
 
   
@@ -33,7 +33,7 @@
 <br>
   <br>
   
-<div align="center">
+<div align="left">
   <!-- Estadísticas de GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=tarpiov&show_icons=true&locale=en&theme=material-palenight" alt="tarpiov" width="350" style="margin-right: 20px; margin-top: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarpiov&layout=compact&theme=dracula" alt="Top Languages" />
