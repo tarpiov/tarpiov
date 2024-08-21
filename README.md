@@ -28,8 +28,8 @@
 
 ---
 
-<h2> Skills <br> <br><img src="https://skillicons.dev/icons?i=github,git,docker,vscode,flask" />
-<img src="https://skillicons.dev/icons?i=bash,python,javascript&theme=dark" />
+<h2> Skills <br> <br><img src="https://skillicons.dev/icons?i=github,git,docker,vscode,flask" width=140/>
+<img src="https://skillicons.dev/icons?i=bash,python,linux&theme=dark" width=140 />
 
   
 <br>
