@@ -13,7 +13,7 @@
 </p>
 </div>
 
-<h2 align=center> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2 align=left> About Me</h2>
 
 <img width="300px" align="right" alt="Github" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRsYmYwOHYzbm1zdmY2OWlicm81c25jNGNienc5MnBpeWowMW1scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VvoYXi1SfFplFXfEEG/giphy.gif"  />
 
