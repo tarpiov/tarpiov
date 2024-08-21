@@ -2,7 +2,8 @@
 
 <h1 align="center" styles="margin-bottom:0px;padding-bottom:0px;"><strong>Tarpiov</strong></h1>
 
-<div class="tenor-gif-embed" data-postid="4580555357874190661" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/l-l-death-note-l-stare-death-note-stare-death-note-gif-4580555357874190661"/>
+<div class="tenor-gif-embed" data-postid="4580555357874190661" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/l-l-death-note-l-stare-death-note-stare-death-note-gif-4580555357874190661">L L Death Note GIF</a>from <a href="https://tenor.com/search/l-gifs">L GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 [![](https://visitcount.itsvg.in/api?id=tarpiov&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
