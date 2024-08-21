@@ -1,53 +1,43 @@
+<p align="center">
+    <img width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBudTJ3bzlzZG9heGFwOTlwYml2MzVqZHU4N2hyemRlenk1MXRlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif">
+</p>
+
 <div align="center">
-  <h1><strong>Tarpiov</strong></h1>
+<h1> Hola, soy Tarpiov  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
 
-  <!-- Contador de visitas -->
-  [![](https://visitcount.itsvg.in/api?id=tarpiov&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-  <!-- Badges de redes sociales -->
-  <p>
-    <a href="https://instagram.com/tarpiov">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="85" />
-    </a>
-    <a href="https://github.com/tarpiov">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="70" />
-    </a>
-  </p>
-
-  <!-- Información personal -->
-  <p align="center" style="font-size: 17px;">
-    👨‍💻 Por afición<br>
-    🌱 Actualmente aprendiendo<br>
-    📫 Contacta conmigo: tapionww@gmail.com
-  </p>
-
-  <!-- GIF -->
-  <p>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRsYmYwOHYzbm1zdmY2OWlicm81c25jNGNienc5MnBpeWowMW1scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VvoYXi1SfFplFXfEEG/giphy.gif" width="280" />
-  </p>
+[![](https://visitcount.itsvg.in/api?id=tarpiov&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+</p>
 </div>
 
----
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
+<img width="300px" align="right" alt="Github" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRsYmYwOHYzbm1zdmY2OWlicm81c25jNGNienc5MnBpeWowMW1scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VvoYXi1SfFplFXfEEG/giphy.gif"  />
+
+- 🔭 Buscando oportunidades
+  
+- 🌱 Aprendiendo cada día
+  
+- 👯 Abierto a colaborar en proyectos
+  
+
+
+<h2> Skills <br> <br><img src="https://skillicons.dev/icons?i=github,git,docker,vscode,flask" />
+<img src="https://skillicons.dev/icons?i=bash,python,javascript&theme=dark" />
+
+  
+<br>
+<br>
+  <br>
+  
 <div align="center">
   <!-- Estadísticas de GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=tarpiov&show_icons=true&locale=en&theme=material-palenight" alt="tarpiov" width="350" style="margin-right: 20px; margin-top: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarpiov&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
-## Tecnologías/Herramientas
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,flask" />
-  </a>
-</p>
+<br>
 
-## Lenguajes de programación
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,javascript&theme=dark" />
-  </a>
-</p>
-
+-----
