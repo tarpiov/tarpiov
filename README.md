@@ -37,7 +37,7 @@
 <div align="left">
   <!-- Estadísticas de GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=tarpiov&show_icons=true&locale=en&theme=material-palenight" alt="tarpiov" width="350" style="margin-right: 20px; margin-top: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarpiov&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarpiov&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 
 
 
