@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-    <img width="690" src="https://tenor.com/es/view/lelouch-vi-britannia-code-geass-gif-25097717">
+    <img width="690" src="https://media1.tenor.com/m/KQG5JPLWBkQAAAAd/lelouch-vi-britannia-code-geass.gif">
 </p>
 
 <div align="center">
