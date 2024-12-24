@@ -17,9 +17,11 @@
 
 <h2 align=left> About Me</h2>
 
-- 🔭 Buscando oportunidades
-  
-- 🌱 Aprendiendo cada día
+- 🎩​ Apasionado de la ciberseguridad (Auto didacta)
+
+- 💻​ Intento de programador 
+
+- 🔭 Buscando oportunidades laborales
   
 - 👯 Abierto a colaborar en proyectos
   
