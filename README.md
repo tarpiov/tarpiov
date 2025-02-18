@@ -20,7 +20,7 @@
 
 - 🔭 Buscando oportunidades laborales
   
-- 👯 Abierto a colaborar en proyectos
+- 👥 Abierto a colaborar en proyectos
   
 
 ---
