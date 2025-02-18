@@ -6,6 +6,8 @@
 </p>
 </div>
 
+`about_me.sh`
+
 ```
 - 🎩​ Apasionado de la ciberseguridad (Auto didacta)
 
@@ -20,6 +22,7 @@
 ---
 
 `skills.sh`
+
 <br><img src="https://skillicons.dev/icons?i=github,git,docker,vscode,flask" width=220/>
 <img src="https://skillicons.dev/icons?i=bash,python,linux&theme=dark" width=140 />
 
