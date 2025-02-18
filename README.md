@@ -1,9 +1,7 @@
 ---
 <br>
 
-<p align="center">
-    <img width="690" src="https://media1.tenor.com/m/KQG5JPLWBkQAAAAd/lelouch-vi-britannia-code-geass.gif">
-</p>
+
 
 <div align="center">
 <h1> Hola, soy Tarpiov  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
