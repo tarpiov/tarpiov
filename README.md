@@ -1,14 +1,5 @@
 ---
 <br>
-
-```python
-import os
-os.system("clear")
-print("Hola mundo")
-```
-
-<div align="center">
-<h1> Hola, soy Tarpiov  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 
 [![](https://visitcount.itsvg.in/api?id=tarpiov&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
