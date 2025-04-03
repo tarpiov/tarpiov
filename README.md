@@ -11,7 +11,7 @@
 ```
 - 🎩​ Auto didacta
 
-- 💻​ Intento de programador 
+- 💻​ Cyber Security <3
 
 - 🔭 Buscando oportunidades laborales
   
