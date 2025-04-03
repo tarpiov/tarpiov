@@ -9,7 +9,7 @@
 `about_me.sh`
 
 ```
-- 🎩​ Apasionado de la ciberseguridad (Auto didacta)
+- 🎩​ Auto didacta
 
 - 💻​ Intento de programador 
 
