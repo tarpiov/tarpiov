@@ -8,15 +8,20 @@
 
 `about_me.sh`
 
-```
-- 🎩​ Auto didacta
+```python
+#!/usr/bin/env python3
 
-- 💻​ Cyber Security <3
+class Tarpiov:
+    def __init__(self, username, method, searching_job_opportunities):
+        self.username = username
+        self.method = method
+        self.searching_job_opportunities = searching_job_opportunities
 
-- 🔭 Buscando oportunidades laborales
-  
-- 👥 Abierto a colaborar en proyectos
-  
+    def __repr__(self):
+        return f"<Tarpiov username={self.username}, method={self.method}, searching_job_opportunities={self.searching_job_opportunities}>"
+
+tarpiov = Tarpiov('tarpiov', 'self-taught', True)
+print(tarpiov)
 ```
 
 ---
